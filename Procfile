@@ -1,1 +1,1 @@
-web: chinookweb.py
+web: python chinookweb.py
